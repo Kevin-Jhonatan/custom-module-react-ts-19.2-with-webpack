@@ -1,0 +1,3 @@
+react_ts_app:
+  js:
+    dist/main.min.js: { minified: true }
